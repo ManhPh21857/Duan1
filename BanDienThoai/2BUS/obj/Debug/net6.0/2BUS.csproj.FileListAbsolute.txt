@@ -1,0 +1,68 @@
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.deps.json
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.runtimeconfig.json
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.dll
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.pdb
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.AssemblyReference.cache
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.GeneratedMSBuildEditorConfig.editorconfig
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.AssemblyInfoInputs.cache
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.AssemblyInfo.cs
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.CoreCompileInputs.cache
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.dll
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\refint\2BUS.dll
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.pdb
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.genruntimeconfig.cache
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\ref\2BUS.dll
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\1DAL.dll
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\1DAL.pdb
+I:\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.deps.json
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.runtimeconfig.json
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.dll
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.pdb
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\1DAL.dll
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\1DAL.pdb
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.dll
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\refint\2BUS.dll
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.pdb
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\ref\2BUS.dll
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.deps.json
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.runtimeconfig.json
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.dll
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.pdb
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\1DAL.dll
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\1DAL.pdb
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.AssemblyReference.cache
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.GeneratedMSBuildEditorConfig.editorconfig
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.AssemblyInfoInputs.cache
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.AssemblyInfo.cs
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.CoreCompileInputs.cache
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.CopyComplete
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.dll
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\refint\2BUS.dll
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.pdb
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.genruntimeconfig.cache
+I:\Dự án 1\Duan1DT\DuAn1BanHang-main\DuAn1BanHang-main\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\ref\2BUS.dll
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.deps.json
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.runtimeconfig.json
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.dll
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\2BUS.pdb
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\1DAL.dll
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\bin\Debug\net6.0\1DAL.pdb
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.AssemblyReference.cache
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.GeneratedMSBuildEditorConfig.editorconfig
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.AssemblyInfoInputs.cache
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.AssemblyInfo.cs
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.CoreCompileInputs.cache
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.csproj.CopyComplete
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.dll
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\refint\2BUS.dll
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.pdb
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\2BUS.genruntimeconfig.cache
+I:\HocTap\Dự án 1\Duan1DT\BanDienThoai\2BUS\obj\Debug\net6.0\ref\2BUS.dll
